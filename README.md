@@ -1,9 +1,14 @@
-🌟 Hey, I'm Olabisi - your friendly data explorer! Data Analyst | Data Scientist 👨‍💻
+**Hey 👋🏽, I'm Olabisi**
+Data Explorer | Data Analyst | Data Scientist 👨‍💻
 
-🚀 Embarking on adventures through data, transforming chaos into insights. Fluent in Python, SQL and the art of turning numbers into narratives.
+• Analyzing data and transforming chaos into insights. Fluent in Python, SQL, and the art of turning data into narratives.
 
-📊 Currently crafting visual tales with data – think of it as art meets analytics.
+• Continuously learning and scaling my skills. "The beautiful thing about learning is that nobody can take it away from you." — B.B. King
 
-👾 No corporate past yet, but I'm on a journey to create data wonders. Join me in the quest!
+• No corporate experience yet, but my first role won't be ready for the wonders, energy, and strong will I'll bring.
 
-🌈 Always up for quirky data collaborations. Let's connect and bring some cool vibes to the data world! 🎉
+• I have projects available here and more are on the way.
+
+• Open to collaboration and gigs.
+
+How to reach me: abdullahisunday20@gmail.com
