@@ -12,4 +12,4 @@ Data Explorer | Data Analyst | Data Scientist 👨‍💻
 
 • Open to collaboration and gigs.
 
-How to reach me: abdullahisunday20@gmail.com
+How to reach me: sunday.workdesk@gmail.com
