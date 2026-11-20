@@ -1,4 +1,4 @@
-### Hey 👋, I'm Adeyemo Sunday Abdullahi (Olabisi)
+### Hey 👋, I'm Olabisi
 
 **AI Evaluation Specialist | Full-Stack & ML Developer | Technical Researcher**
 
